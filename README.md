@@ -1,31 +1,41 @@
-<DOCTYPE html>
-<head>
-    <title> Hello, World!
-     </title>
-         
-</head>
+<!DOCTYPE html>
 
-<style>body {color: rgb(0, 162, 255);
- background-color: rgb(255, 255, 255);
- font-size: xx-large;
- font-weight: 10000;
- font-family: 'Times New Roman', Times, serif;
-
- </style>
-
-
+<head> <title>Aqua</title></head>
+<style>
+    body {
+        font-family: 'Times New Roman', Times, serif; 
+        font-size: xx-large;
+        font-style: italic;
+        font-weight: 600;
+        color: rgb(0, 0, 0);
+    }
+</style>
 <body>
-    <div>Projeto</div> 
-<em>teste</em>
-<style>font-family: 'Times New Roman', Times, serif;
+    <style>
+        body {
+            background-color: aqua;
+        }
     </style>
-    <nav><ul>
-        <li><a href="https://www.haxball.com/" >Home</a></li>
-        <li><a href="https://www.haxball.com/">Contact</a></li>
-        <li><a href="https://www.haxball.com/">About</a></li>
-        </ul></nav>
+    <div>Color Aqua</div>
+    <br>
+    <div><nav><a href="https://www.google.com/maps/@21.8883373,-72.1100688,3a,75y,87.97h,86.7t/data=!3
+        m8!1e1!3m6!1sAF1QipOdOj9J9Ph0wzgQq6B_uAu0i-LQrwTf7Zqfapx-!2e10!3e12!6shttps:%2F%2Flh3.goo
+        gleusercontent.com%2Fp%2FAF1QipOdOj9J9Ph0wzgQq6B_uAu0i-LQrwTf7Zqfapx-%3Dw900-h600-k-no-pi
+        3.299999999999997-ya122.55023071289062-ro0-fo100!7i9500!8i4750?entry=ttu&g_ep=EgoyMDI2MDM
+        wMi4wIKXMDSoASAFQAw%3D%3D">•Parrot Cay</a></nav></div>
+    
+    
+     <div><a href="https://www.google.com/maps/@16.1665702,-61.7881345,3a,82.2y,351.68h,107.45t/data=!3m8!1e1!3m6!1s
+        AF1QipM88zSYYNjZCoUp80dtDLQNPSf7n3Tzxoqc2beD!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s
+        %2FAFfmt2b4TFolqzvyb4MyVn9H3uVpn3_TVK0YH0g6d7ZmGf6j5IaCINmHhigrMfEe7pjGixRYJfxN4AYPSzNg5UZpIXp0c4TWJ6O8JKZy
+        tSiabecPeoUIPtD78spTIEAo70fea4yBmHBY%3Dw900-h600-k-no-pi-17.453523772735977
+        -ya351.6754001641871-ro0-fo100!7i9500!8i4750?entry=ttu&g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D">•Jacques Cousteau</a></div>
+        
+       <div><a href="https://www.google.com/maps/@2.9277152,73.5904136,3a,82.2y,304.06h,84.7t/data=!3m8!1e1!3m6!1sAF1Qip
+        Pv-AvHl3g0RpTrgFv0q0mdiqzYdCt-q79S_zX0!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPv-AvHl
+        3g0RpTrgFv0q0mdiqzYdCt-q79S_zX0%3Dw900-h600-k-no-pi5.299999999999997-ya103.7297998046875-ro0-fo100!7i9500!8i
+        4750?entry=ttu&g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D">•Maldivas</a></div>
 
-        <form action="digite"><input type="digite" name="Digite" id="">
-            </form>
+
+        </nav>
 </body>
-</DOCTYPE>  
